@@ -977,3 +977,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.01-07.49.21:697][ 18]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.01-07.49.21:697][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.11.01-07.49.21:698][ 18]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.01-07.50.30:854][308]LogEditorViewport: Clicking on Actor (context menu): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.11.01-07.50.32:110][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.01-07.50.42:738][  9]LogActorFactory: Actor Factory created Cone
+[2021.11.01-07.50.46:642][243]LogActorFactory: Actor Factory created Cone
+[2021.11.01-07.50.49:656][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.11.01-07.51.11:850][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.01-07.51.11:873][390]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMapF772043744BAC70ED756308C10EE780B.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.01-07.51.12:144][390]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap_BuiltDataEE50113042456640949779B79EE76AEC.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.01-07.51.12:157][390]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.01-07.51.12:157][390]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.01-07.51.12:157][390]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
