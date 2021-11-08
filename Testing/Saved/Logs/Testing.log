@@ -929,3 +929,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.08-06.59.27:784][471]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.08-06.59.27:784][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.11.08-06.59.27:784][471]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.08-07.02.15:828][363]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (EditorCube15)
+[2021.11.08-07.02.16:668][413]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.11.08-07.02.17:492][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2021.11.08-07.02.25:770][956]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.11.08-07.02.27:555][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.08-07.02.28:342][105]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.11.08-07.02.28:376][105]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (Mesh2P)
+[2021.11.08-07.02.53:684][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.08-07.02.53:709][570]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap68D64BC54C1F27BA94EE29B2A357294D.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.08-07.02.53:988][570]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap_BuiltDataF8E1E2F84D20DCAB60EE2AA5DEE05176.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.08-07.02.54:000][570]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.08-07.02.54:000][570]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.08-07.02.54:000][570]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
