@@ -908,3 +908,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.08-06.51.14:508][247]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
 [2021.11.08-06.51.28:432][ 77]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -890.00,1900.00,500.00
 [2021.11.08-06.51.29:439][134]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -1770.00,1900.00,300.00
+[2021.11.08-06.57.45:547][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.11.08-06.57.45:566][  2]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.11.08-06.57.47:734][130]Cmd: TRANSACTION UNDO
+[2021.11.08-06.57.47:734][130]LogEditorTransaction: Undo Clicking on Components
+[2021.11.08-06.57.47:753][130]LogSlate: Took 0.001475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.08-06.57.49:054][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.08-06.57.49:069][201]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.11.08-06.57.59:806][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.08-06.57.59:831][843]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap684309A4430CCEB927D62A955D68B2EA.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.08-06.58.00:363][843]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap_BuiltData455395A948D6FD8CA390BEA64A28AA0F.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.08-06.58.00:372][843]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.08-06.58.00:372][843]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.08-06.58.00:372][843]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
