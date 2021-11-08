@@ -921,3 +921,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.08-06.58.00:372][843]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.08-06.58.00:372][843]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.11.08-06.58.00:372][843]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.08-06.59.06:067][189]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.11.08-06.59.20:167][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2021.11.08-06.59.27:475][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.11.08-06.59.27:499][471]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap493531BC4F2F92210F9D359C797AFB1B.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.08-06.59.27:769][471]LogSavePackage: Moving '../../../../../../Users/Riee/Documents/test/Testing/Saved/FirstPersonExampleMap_BuiltData21273473425A286C7B4CDC8511CB11BD.tmp' to '../../../../../../Users/Riee/Documents/test/Testing/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.08-06.59.27:784][471]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.08-06.59.27:784][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.08-06.59.27:784][471]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
